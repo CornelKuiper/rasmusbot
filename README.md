@@ -1,2 +1,2 @@
 # rasmusbot
-Based on our lord and saviours
+Based on our lord and saviour
